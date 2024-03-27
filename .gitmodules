@@ -1,0 +1,6 @@
+[submodule "PPG_SLR_dataset"]
+	path = PPG_SLR_dataset
+	url = https://github.com/bvignau/PPG_SLR_dataset
+[submodule "SLRIA"]
+	path = SLRIA
+	url = https://github.com/bvignau/SLRIA
